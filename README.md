@@ -12,7 +12,7 @@ Junior Software Developer specializing in backend architectures at **AIVISTA Tec
 
 ### 🚀 About Me
 - 🔭 **Current Focus:** Flask-based REST APIs and complex PL/pgSQL procedures.
-- ⚡ **Data Engineering:** Multi-stage educational data ingestion pipelines using Azure and PySpark.
+- ⚡ **Data Engineering:** Multi-stage educational data ingestion pipelines using Azure, Snowflake, Pandas.
 - 🎓 **Education:** B.Tech in CSE from Techno International Newtown (Class of 2024).
 - 🏆 **Achievement:** 2nd Runner-up at College-Level Smart India Hackathon.
 - 🌱 **Research:** V2V communication using network analysis and ML models.
